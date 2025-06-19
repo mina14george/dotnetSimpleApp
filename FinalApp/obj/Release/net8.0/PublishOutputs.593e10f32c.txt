@@ -1,0 +1,17 @@
+/home/mina/dotnetapp/out/FinalApp
+/home/mina/dotnetapp/out/out/web.config
+/home/mina/dotnetapp/out/appsettings.Development.json
+/home/mina/dotnetapp/out/appsettings.json
+/home/mina/dotnetapp/out/out/appsettings.Development.json
+/home/mina/dotnetapp/out/out/appsettings.json
+/home/mina/dotnetapp/out/out/FinalApp.deps.json
+/home/mina/dotnetapp/out/out/FinalApp.runtimeconfig.json
+/home/mina/dotnetapp/out/FinalApp.dll
+/home/mina/dotnetapp/out/FinalApp.deps.json
+/home/mina/dotnetapp/out/FinalApp.runtimeconfig.json
+/home/mina/dotnetapp/out/FinalApp.pdb
+/home/mina/dotnetapp/out/Microsoft.AspNetCore.OpenApi.dll
+/home/mina/dotnetapp/out/Microsoft.OpenApi.dll
+/home/mina/dotnetapp/out/Swashbuckle.AspNetCore.Swagger.dll
+/home/mina/dotnetapp/out/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/mina/dotnetapp/out/Swashbuckle.AspNetCore.SwaggerUI.dll
