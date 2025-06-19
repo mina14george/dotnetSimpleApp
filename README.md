@@ -132,6 +132,6 @@ builder.WebHost.UseUrls("http://0.0.0.0:5153");
 ## ✍️ Author
 
 **Mina** – DevOps Engineer\
-Want to collaborate or deploy this to Azure? Feel free to reach out!
+Feel free to reach out!
 
 ---
