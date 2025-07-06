@@ -36,7 +36,7 @@ This project is a simple ASP.NET Core Web API that returns a 5-day weather forec
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/your-username/FinalApp.git
+   git clone https://github.com/mina14george/FinalApp.git
    cd FinalApp
    ```
 
